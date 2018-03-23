@@ -1,3 +1,5 @@
+[![HitCount](http://hits.dwyl.io/YTiStrafeNubzHD/KillBearBoys.svg)](http://hits.dwyl.io/YTiStrafeNubzHD/KillBearBoys)
+
 #<a href="https://poggit.pmmp.io/ci/PMMP-JPN/KillBearBoys/KillBearBoys">Download <img src= https://poggit.pmmp.io/ci.badge/PMMP-JPN/KillBearBoys/KillBearBoys/></a>
 KillBearBoys SQLlte3対応版<br>
 <br>
